@@ -1,0 +1,3 @@
+define('USERNAME','codecamp23473');   // MySQLのユーザ名
+define('PASSWORD', 'JXRGWLIM');       // MySQLのパスワード
+define('DB_NAME' ,'codecamp23473');   // MySQLのDB名
